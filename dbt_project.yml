@@ -1,5 +1,5 @@
 
-name: 'dbt audit'
+name: 'dbt_audit'
 version: '1.0'
 
 source-paths: ["models"]   # paths with source code to compile
